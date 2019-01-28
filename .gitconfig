@@ -1,3 +1,5 @@
 [user]
 	email = 764@holbertonschool.com
 	name = Maria Alejandra Coy
+[push]
+	default = simple
